@@ -1,0 +1,1 @@
+其中.的意思是 所有库.所有表， ‘root’@’%’ identified by ‘xxx’的前一个root是用户名，%是指所有访问ip，xxx是指密码。
